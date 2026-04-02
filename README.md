@@ -63,7 +63,7 @@ server.js
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com//finance-dashboard-backend.git
+git clone https://github.com/M-Jaya-Kumar-Patra/finance-dashboard-backend.git
 cd finance-dashboard-backend
 ```
 
@@ -81,7 +81,7 @@ npm install
 
 ```
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/Zorvyn
+MONGO_URI=your_mongodb_connection_stringyour_mongodb_connection_string
 JWT_SECRET=your_secret_key
 ```
 
